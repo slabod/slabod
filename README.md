@@ -1,8 +1,9 @@
 # Mikhail Slabodkin
 
-- Researcher and analyst-developer at Yandex Maps & Navigation, Saint Petersburg.
-- Background in mathematics and theoretical computer science (proof complexity).
-- Interests: algorithms, combinatorial optimization, A/B testing and statistics, game theory.
+- St. analyst-developer at Yandex Navigation, ex Sr. researcher at Huawei, Saint Petersburg.
+- Background in fundamental mathematics and theoretical computer science.
+- Founder at [CS Space](https://csspace.io).
+- Interests: online path searching algorithms, combinatorial optimization, statistical testing, game theory, Prover & Delayer games.
 
 ## Repositories
 
